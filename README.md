@@ -25,8 +25,18 @@ This repository contains the landing page for the Bot Admin Panel, a comprehensi
     ```
 ## Purchase
 
-The full Bot Admin Panel can be purchased for KES 700 (one-time payment, lifetime access, and free updates) via Paystack. The payment link is embedded within the landing page.
-https://paystack.shop/pay/kcic85rjbv
+The full Bot Admin Panel can be purchased for KES 700 (one-time payment, lifetime access, and free updates) via Paystack.
+<div style="color: green; font-size: 20px; font-family: Arial, sans-serif; line-height: 1.5;">
+  <h2 style="font-size: 26px;">Common Queries</h2>
+  <p><strong>How to order?</strong></p>
+  <p>
+    Click <a href="https://paystack.shop/pay/kcic85rjbv" style="color: green; font-weight: bold; text-decoration: underline;">PURCHASE WITH PAYSTACK</a> button 
+    → Complete payment via Paystack 
+    → Redirected to WhatsApp with order details 
+    → Your password, username, and panel link delivered within 5-15 min.
+  </p>
+</div>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
