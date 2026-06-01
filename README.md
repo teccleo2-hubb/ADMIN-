@@ -1,4 +1,4 @@
-# Bot Admin Panel Landing Page
+# Bot Admin 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙋𝙊𝙆𝙄
 
 This repository contains the landing page for the Bot Admin Panel, a comprehensive dashboard solution for managing bots. It features user logs, broadcast tools, real-time analytics, and full bot settings.
 
@@ -8,10 +8,9 @@ This repository contains the landing page for the Bot Admin Panel, a comprehensi
 *   **User Logs:** Track every user interaction, commands, errors, and login history with search & filters.
 *   **Broadcast Tool:** Send mass messages, announcements, or updates to all bot users with scheduling options.
 *   **Analytics:** Graphs on user growth, command usage, retention, and engagement metrics.
-*   **Bot Settings:** Change prefix, welcome messages, auto-reply, anti-spam, and API keys from one panel.
-*   **Access Control:** Multi-role support: Admin, Moderator, Viewer – secure your bot operations.
+*   **Access Control:** Multi-role support: Admin, Moderator, Viewer – secure your bot operations.pokiboi82@gmail.com
 *   **Export Logs:** Download user logs and analytics reports in CSV/JSON format for deeper analysis.
-*   **24/7 Support:** Documentation + priority email support included after purchase.
+*   **24/7 Support:** Documentation + priority email support included after purchase.pokiboi82@gmail.com
 
 ## Technologies Used
 
