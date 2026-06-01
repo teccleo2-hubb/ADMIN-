@@ -39,7 +39,7 @@ Alternatively, you can deploy this page using GitHub Pages by pushing the `index
 ## Purchase
 
 The full Bot Admin Panel can be purchased for KES 700 (one-time payment, lifetime access, and free updates) via Paystack. The payment link is embedded within the landing page.
-
+https://paystack.shop/pay/kcic85rjbv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
