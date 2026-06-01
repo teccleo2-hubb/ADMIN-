@@ -11,18 +11,6 @@ This repository contains the landing page for the Bot Admin Panel, a comprehensi
 *   **Access Control:** Multi-role support: Admin, Moderator, Viewer – secure your bot operations.pokiboi82@gmail.com
 *   **Export Logs:** Download user logs and analytics reports in CSV/JSON format for deeper analysis.
 *   **24/7 Support:** Documentation + priority email support included after purchase.pokiboi82@gmail.com
-
-## Technologies Used
-
-*   **HTML5**
-*   **Tailwind CSS:** For rapid UI development and styling.
-    ```bash
-    git clone https://github.com/teccleo2-hubb/bot-admin-panel-landing.git
-    ```
-2.  Navigate to the project directory:
-    ```bash
-    cd bot-admin-panel-landing
-    ```
 ## Purchase
 
 The full Bot Admin Panel can be purchased for KES 700 (one-time payment, lifetime access, and free updates) via Paystack.
