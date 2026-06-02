@@ -1,4 +1,4 @@
-# Bot Admin FOR ONLY TWO BOTS
+# Bot Admin●●《FOR ONLY TWO BOTS》
 
 This repository contains the landing page for the Bot DISCORD, a comprehensive dashboard solution for managing bots. It features user logs, broadcast tools, real-time analytics, and full bot settings.
 
