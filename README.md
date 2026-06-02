@@ -1,3 +1,9 @@
+#FFFFFF
+#F5F5F5
+#E8E8E8
+#D3D3D3
+#A9A9A9
+#3B82F6
 # Bot Admin●●《FOR ONLY TWO BOTS》
 
 This repository contains the landing page for the Bot DISCORD, a comprehensive dashboard solution for managing bots. It features user logs, broadcast tools, real-time analytics, and full bot settings.
