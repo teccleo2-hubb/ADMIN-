@@ -2,7 +2,13 @@
 
 This repository contains the landing page for the Bot DISCORD, a comprehensive dashboard solution for managing bots. It features user logs, broadcast tools, real-time analytics, and full bot settings.
 
-## Features
+## FeaturesPrefix: Customizable (Default: .)
+Mode: Public/Private
+Auto Status View: Automatically views status updates.
+Anti-Call: Automatically rejects incoming calls with a custom message.
+Anti-Delete: Prevents messages from being deleted.
+Always Online: Keeps the bot active 24/7.
+Custom Branding: Personalized bot name, watermark, and owner details.
 
 *   **Full Dashboard:**
 *   ## Purchase
