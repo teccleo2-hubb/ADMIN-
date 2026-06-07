@@ -26,7 +26,7 @@ The TWO Bot can be purchased for KES 100 (one-time payment, lifetime access, and
   <p>
     Click <a href="https://paystack.shop/pay/kcic85rjbv" style="color: green; font-weight: bold; text-decoration: underline;">PURCHASE WITH PAYSTACK</a> button 
     → Complete payment via Paystack 
-    → Your password, username, and bot(2) links delivered within 5-15 min.to your dashboard 
+    → Yourtwo bot repository would be launched to your dashboard 
   </p>
 </div>
 
